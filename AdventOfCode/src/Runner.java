@@ -14,7 +14,7 @@ public class Runner {
 				int start = line.indexOf("mul(");
 			}//d
 		}
-		File file =new File("input.txt");
+		File file = new File("input.txt");
 		
 		try {
 			Scanner scanner = new Scanner(file);
